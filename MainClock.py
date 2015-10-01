@@ -1,2 +1,3 @@
 Print "Hello"
+print "Hello"
 
